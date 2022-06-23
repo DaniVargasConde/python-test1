@@ -6,7 +6,7 @@ def res(a,b):
     return print(a-b)
 
 if __name__ == '__main__':
-    x=1
+    x=2
     y=2
 
     res(y,x)
